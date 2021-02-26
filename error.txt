@@ -1,0 +1,19 @@
+
+Orden «eco» no encontrada. Quizá quiso decir:
+
+  la orden «peco» del paquete snap «peco (v0.5.3)»
+  la orden «exo» del paquete snap «exoscale-cli (v1.20.0)»
+  la orden «ecj» del paquete deb «ecj»
+  la orden «peco» del paquete deb «peco»
+  la orden «co» del paquete deb «rcs»
+  la orden «ecl» del paquete deb «ecl»
+  la orden «ecs» del paquete deb «ecere-dev»
+  la orden «echo» del paquete deb «coreutils»
+  la orden «mco» del paquete deb «mcollective-client»
+  la orden «ico» del paquete deb «x11-apps»
+  la orden «ecm» del paquete deb «gmp-ecm»
+  la orden «ecp» del paquete deb «ecere-dev»
+  la orden «ecc» del paquete deb «ecere-dev»
+
+Consulte «snap info <nombre del snap>» para ver más versiones.
+
